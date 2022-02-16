@@ -13,8 +13,9 @@
   Nous Utilisons le <a href="https://fr.wikipedia.org/wiki/Web_scraping">Web Scrapping</a> 
   ainsi que <a href="https://fr.wikipedia.org/wiki/Google_hacking">Google Dorks</a> pour collecter les données.<br>
   <b>DaProfiler</b> peut également lire le contenu d'une Biographie Instagram et obtenir : <code>Courriels, Profils PayPal, Ville, Âge, Passions.</code><br><br>
-
-  <b>L'Outil DaProfiler est conçu uniquement à des fins éducatives, nous ne sommes pas responsables de l'Usage que vous en faites.</b>
+  
+  <b>L'Outil DaProfiler est Conçu Uniquement à des Fins Éducatives,<br>
+    nous Déclinons Toutes Responsabilités de l'Usage que vous en Faites.</b>
 </p>
 
 <hr>
