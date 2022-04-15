@@ -16,7 +16,7 @@
   Ainsi que <a href="https://fr.wikipedia.org/wiki/Google_hacking">Google Dorks</a> pour collecter les données.<br>
   <b>DaProfiler</b> peut également lire le contenu d'une Biographie Instagram et obtenir : <code>Courriels, Profils PayPal, Ville, Âge, Passions.</code><br><br>
   
-  <b>L'Outil DaProfiler est conçu uniquement à des Fins Éducatives, Nous déclinons toutes responsabilités de l'usage que vous en faites.</b>
+  <b>DaProfiler est conçu uniquement à des Fins Éducatives, Nous déclinons toutes responsabilités de l'usage que vous en faites.</b>
 </p>
 
 <hr>
