@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="">
-    <img alt="DaProfiler Logo" src="https://user-images.githubusercontent.com/85597175/154352199-f6ae09ba-1394-4a08-9232-0c3fe5be0c57.png">
+    <img alt="DaProfiler Logo" src="154352199-f6ae09ba-1394-4a08-9232-0c3fe5be0c57_recadre.png">
   </a>
 </p>
 
