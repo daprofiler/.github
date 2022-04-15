@@ -6,6 +6,8 @@
   </a>
 </p>
 
+<hr>
+
 <p align="left">
   <b>DaProfiler</b> est un Outil <a href="https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes">OSINT</a> 
   permettant de recueillir certaines informations sur une <b>Cible Française uniquement.</b><br>
